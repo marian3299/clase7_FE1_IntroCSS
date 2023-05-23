@@ -1,0 +1,80 @@
+.img-batman {
+    text-align: center;
+}
+
+.titulo {
+    height: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: rgba(0, 86, 119, 1);
+    text-align: center;
+    background-color: rgba(196, 196, 196, 1) ;
+    letter-spacing: 10px;
+    line-height: 60px;
+}
+
+main{
+    padding-bottom: 127px;
+    padding-top: 127px;
+}
+
+
+h2 {
+    padding-left: 12.45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 20px;
+    color: rgba(0, 86, 119, 1);
+
+    background-color: rgba(196, 196, 196, 1);
+    line-height: 30px;
+    height: 30px;
+    letter-spacing: 8px;
+}
+
+li {
+    padding-left: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.datos-personales{
+    font-weight: bold;
+    font-style: italic;
+}
+
+dt, dd {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding-left: 8px;
+    font-style: normal;
+}
+
+.formacion-academica{
+    font-weight: bold;
+}
+
+.espacio {
+    padding-left: 45px;
+}
+footer{
+    line-height: 37PX;
+    background-color: rgba(0, 86, 119, 1);
+    text-align: center;
+}
+
+footer p {
+   
+    
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    display: inline;
+    
+    
+}
+
+.img1 {
+    padding-left: 26px;
+   
+}
